@@ -9,10 +9,12 @@ import os
 st.title('Casos Positivos de Covid-19 en el Perú')
 st.subheader("Miembros del equipo")
 st.markdown("""
--Elmer Taipe
--Miguel Sanchez
--Jefferson Buiza
--Nelson Huamani
+- Isabel Muñoz
+- Enzo Baltazar
+- Joel Huillca
+- Stephany Samanez
+- Lucero de la Cruz
+- Leonardo Plasencia
 """)
 st.markdown("""
 ---
